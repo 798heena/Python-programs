@@ -3,6 +3,6 @@
 x = [10,20,30,40,50,60,70]
 i = 0
 y = len(x)
-while x<y:
+while i<y:
     print(x[i])
     i = i+1
