@@ -6,7 +6,7 @@ b = 4
 print(a & b)
 
 #Print bitwise OR operation
-print(a  b)
+print(a | b)
 
 #Print bitwise NOT operation
 print(~a)
