@@ -1,5 +1,4 @@
 #how to print data on a screen
-
 #one object is passed
 print("Hi Pranshu")
 

@@ -1,6 +1,6 @@
 #Program to check input
 #type in Python
-num = input("Enter number :")
+num = int(input("Enter number :"))
 print(num)
 name1 = input("Enter name :")
 print(name1)
